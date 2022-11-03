@@ -33,7 +33,7 @@
 
 - Learned about Functional Components 
 
-- `Reminder` : This is a Bootstrap Template just to understand components i have used this template
+- `Reminder` : This is a Bootstrap Template just to understand components i have used this template.And this is a Responsive design.
 
 ># Designed With 😇
 >## TECHNOLOGIES USED 
